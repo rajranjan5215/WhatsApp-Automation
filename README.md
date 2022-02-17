@@ -11,4 +11,4 @@ WhatsApp Automation  is made using  UI Path Studio.
 
 # Technology Used
 
-## It is a Robotic Process Automation based tool known as Ui Path Studio.
+## 1. Built using  Robotic Process Automation(RPA) based tool known as Ui Path Studio.
