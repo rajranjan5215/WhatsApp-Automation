@@ -1,3 +1,4 @@
+Note: Please download the zip file to use the repository.
 # WhatsApp-Automation-UI PATH
 WhatsApp Automation  is made using  UI Path Studio.  
 
