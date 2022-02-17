@@ -1,4 +1,4 @@
-# WhatsApp-Automation
+# WhatsApp-Automation-UI PATH
 WhatsApp Automation  is made using  UI Path Studio.  
 # Features
 ## 1. Can Auto detect new Messages
@@ -7,6 +7,6 @@ WhatsApp Automation  is made using  UI Path Studio.
 
 # Technology Used
 
-## It is a Robotic Process Automation based Tool known as Ui Path Studio.
+## It is a Robotic Process Automation based tool known as Ui Path Studio.
 
 
